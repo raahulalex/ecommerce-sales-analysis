@@ -26,6 +26,9 @@ The aim of the analysis is to answer key business questions around:
 - `dashboard/` → dashboard screenshots
 - `report/` → exported report files
 
+## Tableau Dashboard
+Interactive dashboard link: https://public.tableau.com/views/E-CommerceSalesandCustomerAnalytics/E-CommerceSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Key Insights
 - Sales performance varies across regions, with some regions contributing significantly more revenue.
 - A relatively small number of customers account for a large share of total sales.
